@@ -63,4 +63,4 @@ jobs:
           app-name: 'fbcsipaoapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D92217AC320445109CE98B6EAD673045 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18B251788D1145AA87FDDA26C055387A }}
